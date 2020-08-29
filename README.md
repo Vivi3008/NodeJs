@@ -2,6 +2,8 @@
 
 >API de listagem de produtos feita com NodeJs e MongoDb
 
+![](products.png)
+
 # Usage
 >npm run dev
 
